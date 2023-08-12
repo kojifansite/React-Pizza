@@ -1,4 +1,4 @@
-##https://koji-pizza.vercel.app/
+https://koji-pizza.vercel.app/
 
 ## Пройденный курс по созданию интернет-магазина пиццерии - "React-Pizza-v2 от Archakov Blog"
 
