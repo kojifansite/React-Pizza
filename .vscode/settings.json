@@ -1,0 +1,9 @@
+{
+  "editor.codeActionsOnSave": { "source.fixAll.eslint": true },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.options": {
+    "extensions": [".js", ".jsx", ".ts", ".tsx"]
+  },
+  "files.autoSave": "onFocusChange"
+}
